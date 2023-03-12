@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1678398979 "/home/egor/phys_lab/2.1.3/2_1_3.tex" "2_1_3.pdf" "2_1_3" 1678398980
+["pdflatex"] 1678640196 "/home/egor/phys_lab/2.1.3/2_1_3.tex" "2_1_3.pdf" "2_1_3" 1678640197
   "/etc/texmf/web2c/texmf.cnf" 1675119430 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/egor/.texlive2021/texmf-var/fonts/tfm/lh/lh-t2a/labx1000.tfm" 1675199677 3300 6abb8e321227ead2a8e929e5abc72bd3 ""
   "/home/egor/.texlive2021/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm" 1675119956 3304 6a543c07045572737981351171e0505e ""
@@ -8,7 +8,7 @@
   "/home/egor/.texlive2021/texmf-var/fonts/tfm/lh/lh-t2a/larm1440.tfm" 1675119953 3256 3daaa33cf35cf3f354983aa3214ecd7f ""
   "/home/egor/.texlive2021/texmf-var/fonts/tfm/lh/lh-t2a/larm1728.tfm" 1675119946 3252 92d08740ce00199d6cf9ff4aaada81d1 ""
   "/home/egor/.texlive2021/texmf-var/fonts/tfm/lh/lh-t2a/lati1000.tfm" 1675355969 3528 defd551e32c4af414f9b54b8101bfa9b ""
-  "/home/egor/phys_lab/2.1.3/2_1_3.tex" 1678398979 9920 4f3df06fa535adaebef1da53f9816c2a ""
+  "/home/egor/phys_lab/2.1.3/2_1_3.tex" 1678640195 11336 d4ce42a9a9cdfc30a5cf0a1a1eb25f18 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -114,9 +114,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1675119458 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1676558030 2800102 f0a47b833da701e693b4e06995609d5d ""
-  "2_1_3.aux" 1678398980 2254 4292ac204adf1e188ec0c0a3a2bdfd89 "pdflatex"
-  "2_1_3.out" 1678398980 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "2_1_3.tex" 1678398979 9920 4f3df06fa535adaebef1da53f9816c2a ""
+  "2_1_3.aux" 1678640197 2425 fc38b9bce527a329cfbf20ddfce748b7 "pdflatex"
+  "2_1_3.out" 1678640196 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "2_1_3.tex" 1678640195 11336 d4ce42a9a9cdfc30a5cf0a1a1eb25f18 ""
   "ust1.jpg" 1678398758 23898 91753a9279612e8786fee65e68e382a8 ""
   "ust2.jpg" 1678398777 32565 eed01af183cc11a10d2af6a16d129207 ""
   (generated)
